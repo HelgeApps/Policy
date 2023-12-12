@@ -13,7 +13,7 @@ Our apps use some third-party libraries (AdMob to show ads, In App Billing for p
 - Firebase Service (Analytics, Cloud Messaging, In App Messaging, Remote Config, Crashlytics) [https://firebase.google.com/docs/android/play-data-disclosure](https://firebase.google.com/docs/android/play-data-disclosure), [https://firebase.google.com/support/privacy/dpo]( https://firebase.google.com/support/privacy/dpo), [https://firebase.google.com/policies/analytics/](https://firebase.google.com/policies/analytics/)
 - Google Play's billing - [https://support.google.com/googleplay/android-developer/answer/10281818](https://support.google.com/googleplay/android-developer/answer/10281818)
 
-You can also check Date Safety section for each app at Google Play to find out what exactly third-party libraries collect.
+You can also check Data Safety section for each app at Google Play to find out what exactly third-party libraries collect.
 
 ### Apps permissions:
 
