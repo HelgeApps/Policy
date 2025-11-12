@@ -8,7 +8,7 @@ This privacy policy covers the use of the 'LPlayer', 'K-POP YouTube - Popular & 
 
 We (DroidCoolApps) personally DO NOT collect any personal information to our own servers (which we also don't even have) from our users except the information which is collected by third-party libraries of Google (Admob/Firebase) we use in our apps - please check the following info about it:
 
-Our apps use some Google third-party libraries (AdMob to show ads, In App Billing for purchases, Firebase services) which can collect some information from you. You can check their Private Policy at:
+Our apps use some Google third-party libraries (AdMob to show ads, Google Play Billing for in app purchases, Firebase services like analtyics, crashlyhtics) which can collect some information from you. You can check their Private Policy at:
 - Google Admob [https://support.google.com/admob/answer/6128543](https://support.google.com/admob/answer/6128543), [https://policies.google.com/technologies/ads](https://policies.google.com/technologies/ads), [https://developers.google.com/admob/android/privacy/play-data-disclosure#data_collected_and_shared_automatically](https://developers.google.com/admob/android/privacy/play-data-disclosure#data_collected_and_shared_automatically)
 - Google Firebase Service (Analytics, Cloud Messaging, In App Messaging, Remote Config, Crashlytics) [https://firebase.google.com/docs/android/play-data-disclosure](https://firebase.google.com/docs/android/play-data-disclosure), [https://firebase.google.com/support/privacy/dpo]( https://firebase.google.com/support/privacy/dpo), [https://marketingplatform.google.com/about/analytics/terms/us/](https://marketingplatform.google.com/about/analytics/terms/us/)
 - Google Play's billing - [https://support.google.com/googleplay/android-developer/answer/10281818](https://support.google.com/googleplay/android-developer/answer/10281818)
@@ -34,14 +34,12 @@ You can also check Data Safety section for each app at Google Play to find out w
 - STORAGE (find video files, save downloaded subtitles, option for user to delete selected video file)
 - INTERNET (search and download subtitles, ads)
 
-
 <a href="https://play.google.com/store/apps/details?id=com.helge.kpopyoutube"><img src="kpop_tube.png" alt="K-POP Tube" class="inline"/></a> ### 'K-POP YouTube - Popular & Recent' Permissions
-- INTERNET (playing videos, ads)
+- INTERNET (playing videos, ads which can be shown by YouTube)
 
 <a href="https://play.google.com/store/apps/details?id=com.helge.mediafiles"><img src="mediafiles.png" alt="Media Files Explorer" class="inline"/></a>  ### 'Media Files Explorer' Permissions
 - STORAGE (find and display media files, option for user to delete selected media files)
 - INTERNET (ads)
-
 
 <a href="https://play.google.com/store/apps/details?id=com.helge.movieseasyfinder"><img src="MoviesEasyFinder.png" alt="Movies Easy Finder (IMDb)
 " class="inline"/></a> ### 'Movies Easy Finder (IMDb)' Permissions
