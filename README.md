@@ -54,7 +54,7 @@ You can also review the **Data Safety** section of each app on the Google Play S
 1. **CAMERA + AUDIO** — Required for video recording.
 2. **STORAGE** (Android 10 and below) — Used to save recordings to public `DCIM/MOVIES` folders when the Storage Access Framework is not supported. On Android 11+, you can choose any folder without this permission using the modern Storage Access Framework.
 3. **LOCATION** — To display current address, GPS coordinates, and speed on the main screen and embed them as subtitles in recorded videos.
-4. **INTERNET** — Required for ads, anonymous analytics, and in-app purchases, and reverse geocoding (Android's Geocoder).
+4. **INTERNET** — Required for ads, anonymous analytics, in-app purchases, and reverse geocoding (Android's Geocoder).
 5. **FOREGROUND SERVICE** — Allows continuous video recording in the background (visible via notification) when the app is minimized or the screen is locked. Some automatic recording features also depend on this service.
 
 #### <a href="https://play.google.com/store/apps/details?id=com.helge.dualcameravideorecorder"><img src="dual_camera_video_recorder.png" alt="Dual Camera Video Recorder" width="48" style="vertical-align:middle;"/></a> Dual Camera Video Recorder
