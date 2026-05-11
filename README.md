@@ -78,7 +78,7 @@ We may update this Privacy Policy from time to time. Any changes will be posted 
 ### Contact / Support
 
 If you have any questions or concerns, please feel free to contact us:  
-[cooldroidapps4@gmail.com](mailto:cooldroidapps4@gmail.com)
+[Support Email](mailto:cooldroidapps4@gmail.com)
 
 ---
 
