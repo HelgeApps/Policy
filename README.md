@@ -22,8 +22,6 @@ Used for displaying advertisements in the apps.
 - Diagnostic information (app launch time, hang rate, energy usage, etc.)
 - Device and account identifiers (Android Advertising ID, App Set ID, and other identifiers if signed-in accounts are present)
 
-The primary identifier used for ad personalization is the **Android Advertising ID (GAID)**.
-
 For more information, please review Google's official documentation:  
 [AdMob Data Disclosure](https://developers.google.com/admob/android/privacy/play-data-disclosure#data_collected_and_shared_automatically)  
 [AdMob Privacy & Safety](https://support.google.com/admob/answer/6128543)  
@@ -66,7 +64,7 @@ You can also review the **Data Safety** section of each app on the Google Play S
 
 #### <a href="https://play.google.com/store/apps/details?id=com.helge.lplayer"><img src="ic_launcher.png" alt="LPlayer" width="48" style="vertical-align:middle;"/></a> LPlayer
 
-1. **STORAGE** — To scan video files, save downloaded subtitles, and allow users to delete selected files.
+1. **STORAGE** — To find video files for playback, save downloaded subtitles, and allow users to delete selected files.
 2. **INTERNET** — Required for subtitle search/download, ads, anonymous analytics, and in-app purchases.
 
 #### <a href="https://play.google.com/store/apps/details?id=com.helge.movieseasyfinder"><img src="MoviesEasyFinder.png" alt="Movies Easy Finder" width="48" style="vertical-align:middle;"/></a> Movies Easy Finder (IMDb)
