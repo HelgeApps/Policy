@@ -1,54 +1,87 @@
 ## DroidCoolApps (HelgeApps) Privacy Policy
 
-Last updated December 12, 2023
+**Last updated:** May 11, 2026
 
-This privacy policy covers the use of the 'LPlayer', 'K-POP YouTube - Popular & Recent', 'Droid Dashcam - Driving video recorder, BlackBox', 'Media Files Explorer' & 'Movies Easy Finder', 'Dual Camera Video Recorder' (apps for Android).
+This Privacy Policy applies to the following Android applications:
 
-### Information Collection:
+- **LPlayer**
+- **Droid Dashcam - Driving video recorder, BlackBox**
+- **Movies Easy Finder**
+- **Dual Camera Video Recorder**
 
-We (DroidCoolApps) personally DO NOT collect any personal information to our own servers (which we also don't even have) from our users except the information which is collected by third-party libraries of Google (Admob/Firebase) we use in our apps - please check the following info about it:
+### Data Collection
 
-Our apps use some Google third-party libraries (AdMob to show ads, Google Play Billing for in app purchases, Firebase services like analtyics, crashlyhtics) which can collect some information from you. You can check their Private Policy at:
-- Google Admob [https://support.google.com/admob/answer/6128543](https://support.google.com/admob/answer/6128543), [https://policies.google.com/technologies/ads](https://policies.google.com/technologies/ads), [https://developers.google.com/admob/android/privacy/play-data-disclosure#data_collected_and_shared_automatically](https://developers.google.com/admob/android/privacy/play-data-disclosure#data_collected_and_shared_automatically)
-- Google Firebase Service (Analytics, Cloud Messaging, In App Messaging, Remote Config, Crashlytics) [https://firebase.google.com/docs/android/play-data-disclosure](https://firebase.google.com/docs/android/play-data-disclosure), [https://firebase.google.com/support/privacy/dpo]( https://firebase.google.com/support/privacy/dpo), [https://marketingplatform.google.com/about/analytics/terms/us/](https://marketingplatform.google.com/about/analytics/terms/us/)
-- Google Play's billing - [https://support.google.com/googleplay/android-developer/answer/10281818](https://support.google.com/googleplay/android-developer/answer/10281818)
+Our apps use the following third-party services:
 
-You can also check Data Safety section for each app at Google Play to find out what exactly third-party libraries collect.
+#### 1. Google AdMob (Mobile Ads)
+Used for displaying advertisements in the apps.
 
-### Apps permissions:
+**Data collected by AdMob:**
+- IP address (may be used to estimate general device location)
+- User product interactions (app launches, taps, video views, etc.)
+- Diagnostic information (app launch time, hang rate, energy usage, etc.)
+- Device and account identifiers (Android Advertising ID, App Set ID, and other identifiers if signed-in accounts are present)
 
-<a href="https://play.google.com/store/apps/details?id=com.helge.droiddashcam"><img src="droiddashcam.png" alt="Droid Dashcam" class="inline"/></a> ### 'Droid Dashcam - Driving video recorder, BlackBox' Permissions
-- CAMERA, AUDIO (for video recording)
-- STORAGE for Android 12 and lower (for saving video recordings to shared 'DCIM/MOVIES' folder, and for video recordings deletion option) in case your device doesn't support the Storage Access Framework. For all other devices you can choose any folder without this permission by using the Storage Access Framework instead
-- LOCATION (to get current location address, gps coords, speed - show it on screen for a user and record on video)
-- INTERNET (ads)
-- Background Foreground Service - The app will continue to run in the background (the foreground service that appears in the notification bar) if you start a new recording and return to the home screen, switch to another app or lock your phone to be able to continue recording, or if you turn on functions for automatic recording (if you close the background service, these functions will not work).
+The primary identifier used for ad personalization is the **Android Advertising ID (GAID)**.
 
-<a href="https://play.google.com/store/apps/details?id=com.helge.dualcameravideorecorder"><img src="dual_camera_video_recorder.png" alt="Dual Camera Video Recorder" class="inline"/></a> ### 'Dual Camera Video Recorder' Permissions
-- CAMERA, AUDIO (for video recording)
-- STORAGE for Android 12 and lower (for saving voice recordings to shared 'MUSIC' folder, and for voice recordings deletion option) in case your device doesn't support the Storage Access Framework. For all other devices you can choose any folder without this permission by using the Storage Access Framework instead
-- INTERNET (ads)
-- Background Foreground Service - The app will continue to run in the background (the foreground service that appears in the notification bar) if you start a new recording and return to the home screen, switch to another app or lock your phone to be able to continue recording, or if you turn on functions for automatic recording (if you close the background service, these functions will not work).
+For more information, please review Google's official documentation:  
+[AdMob Data Disclosure](https://developers.google.com/admob/android/privacy/play-data-disclosure#data_collected_and_shared_automatically)  
+[AdMob Privacy & Safety](https://support.google.com/admob/answer/6128543)  
+[Google Ads Policies](https://policies.google.com/technologies/ads)
 
-<a href="https://play.google.com/store/apps/details?id=com.helge.lplayer"><img src="ic_launcher.png" alt="LPlayer" class="inline"/></a> ### 'LPlayer' Permissions
-- STORAGE (find video files, save downloaded subtitles, option for user to delete selected video file)
-- INTERNET (search and download subtitles, ads)
+#### 2. Google Firebase Services
+(Google Analytics for Firebase, Crashlytics, Cloud Messaging, In-App Messaging, Remote Config)
 
-<a href="https://play.google.com/store/apps/details?id=com.helge.kpopyoutube"><img src="kpop_tube.png" alt="K-POP Tube" class="inline"/></a> ### 'K-POP YouTube - Popular & Recent' Permissions
-- INTERNET (playing videos, ads which can be shown by YouTube)
+Used for **anonymous analytics**, crash reporting, error detection, and app performance monitoring. This helps us identify bugs faster and deliver better updates.
 
-<a href="https://play.google.com/store/apps/details?id=com.helge.mediafiles"><img src="mediafiles.png" alt="Media Files Explorer" class="inline"/></a>  ### 'Media Files Explorer' Permissions
-- STORAGE (find and display media files, option for user to delete selected media files)
-- INTERNET (ads)
+For more information:  
+[Firebase Play Data Disclosure](https://firebase.google.com/docs/android/play-data-disclosure)  
+[Firebase Privacy](https://firebase.google.com/support/privacy/dpo)  
+[Google Analytics Terms](https://marketingplatform.google.com/about/analytics/terms/us/)
 
-<a href="https://play.google.com/store/apps/details?id=com.helge.movieseasyfinder"><img src="MoviesEasyFinder.png" alt="Movies Easy Finder (IMDb)
-" class="inline"/></a> ### 'Movies Easy Finder (IMDb)' Permissions
-- INTERNET (ads)
+#### 3. Google Play Billing
+Used for in-app purchases (e.g., to remove ads).
 
-###  Changes to This Privacy Policy:
+For more information:  
+[Google Play Billing Privacy](https://support.google.com/googleplay/android-developer/answer/10281818)
 
-We may update our Privacy Policy from time to time. Thus, you are advised to review this page periodically for any changes. We will notify you of any changes by posting the new Privacy Policy on this page. These changes are effective immediately after they are posted on this page.
+You can also review the **Data Safety** section of each app on the Google Play Store for detailed information about data collection by these services.
 
-### Support or Contact
+### App Permissions
 
-Having any questions? [Сontact support](mailto://cooldroidapps4@gmail.com) and we will answer you.
+#### <a href="https://play.google.com/store/apps/details?id=com.helge.droiddashcam"><img src="droiddashcam.png" alt="Droid Dashcam" width="48" style="vertical-align:middle;"/></a> Droid Dashcam - Driving video recorder, BlackBox
+
+1. **CAMERA + AUDIO** — Required for video recording.
+2. **STORAGE** (Android 12 and below) — Used to save recordings to public `DCIM/MOVIES` folders when the Storage Access Framework is not supported. On Android 13+, you can choose any folder without this permission using the modern Storage Access Framework.
+3. **LOCATION** — To display current address, GPS coordinates, and speed on the main screen and embed them as subtitles in recorded videos.
+4. **INTERNET** — Required for ads, anonymous analytics, and in-app purchases.
+5. **FOREGROUND SERVICE** — Allows continuous video recording in the background (visible via notification) when the app is minimized or the screen is locked. Some automatic recording features also depend on this service.
+
+#### <a href="https://play.google.com/store/apps/details?id=com.helge.dualcameravideorecorder"><img src="dual_camera_video_recorder.png" alt="Dual Camera Video Recorder" width="48" style="vertical-align:middle;"/></a> Dual Camera Video Recorder
+
+1. **CAMERA + AUDIO** — Required for video recording.
+2. **STORAGE** (Android 12 and below) — Used to save recordings to public `DCIM/MOVIES` folders when needed. On newer Android versions, you can select any folder without this permission.
+3. **INTERNET** — Required for ads, anonymous analytics, in-app purchases, and reverse geocoding (address lookup).
+4. **FOREGROUND SERVICE** — Enables background recording with a visible notification. Automatic recording features depend on this service.
+
+#### <a href="https://play.google.com/store/apps/details?id=com.helge.lplayer"><img src="ic_launcher.png" alt="LPlayer" width="48" style="vertical-align:middle;"/></a> LPlayer
+
+1. **STORAGE** — To scan video files, save downloaded subtitles, and allow users to delete selected files.
+2. **INTERNET** — Required for subtitle search/download, ads, anonymous analytics, and in-app purchases.
+
+#### <a href="https://play.google.com/store/apps/details?id=com.helge.movieseasyfinder"><img src="MoviesEasyFinder.png" alt="Movies Easy Finder" width="48" style="vertical-align:middle;"/></a> Movies Easy Finder (IMDb)
+
+- **INTERNET** — Required for ads, anonymous analytics, and in-app purchases.
+
+### Changes to This Privacy Policy
+
+We may update this Privacy Policy from time to time. Any changes will be posted on this page with an updated "Last updated" date. We encourage you to review this policy periodically. Changes are effective immediately upon posting.
+
+### Contact / Support
+
+If you have any questions or concerns, please feel free to contact us:  
+[cooldroidapps4@gmail.com](mailto:cooldroidapps4@gmail.com)
+
+---
+
+*This Privacy Policy was last updated on May 11, 2026.*
